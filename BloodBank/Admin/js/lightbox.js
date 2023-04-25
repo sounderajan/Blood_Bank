@@ -1,4 +1,4 @@
-/**
+/** New comments added
  * Lightbox v2.7.1
  * by Lokesh Dhakar - http://lokeshdhakar.com/projects/lightbox2/
  *
